@@ -9,12 +9,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wan-Python" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wan-Java" height="30" width="100" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Wan-Js" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wan-HTML" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wan-Git" height="30" width="100" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-  <img align="center" alt="Wan-Git" height="30" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Wan-Python" height="30" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wan-Java" height="30" width="120" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Wan-Js" height="30" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wan-HTML" height="30" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wan-Git" height="30" width="120" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
+  <img align="center" alt="Wan-Git" height="30" width="120" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
